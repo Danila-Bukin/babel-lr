@@ -1,0 +1,14 @@
+{
+    "presets": 
+    [
+        "@babel/preset-env"
+    ],
+    "plugins": [[
+        "@babel/proposal-pipeline-operator",
+        {
+            "proposal": "minimal"
+        }
+    ],
+    "babel-plugin-transform-class-properties"
+    ]
+}
