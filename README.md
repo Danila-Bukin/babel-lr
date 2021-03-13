@@ -6,14 +6,15 @@
 Результат: ./src/index.js  
   
 СР1:  
-Задание 1  
+Задание 1 (Для ЛР3-4)  
 Изначальные файлы:  
 ./src/main.js  
 ./src/name.js  
 Результаты:  
 ./lib/main.js  
-./lib/name.js  
-Задание 2  
+./lib/name.js 
+
+Задание 2 (Для ЛР5-6)  
 ./src/index2.js  
 ./src/namer2.js  
 Результаты:  
